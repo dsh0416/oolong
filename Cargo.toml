@@ -1,0 +1,8 @@
+[package]
+name = "oolong"
+version = "0.1.0"
+authors = ["Delton Ding <dsh0416@gmail.com>"]
+
+[dependencies]
+toml = "0.4"
+tokio = "0.1"
